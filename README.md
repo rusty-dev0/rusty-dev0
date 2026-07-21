@@ -1,5 +1,7 @@
-## Hi, I'm Satej
+## Hey, I'm Satej
 
-I love bringing ideas to life through hands-on, interactive projects. My work spans across custom hardware builds, dynamic software, and high quality 3D models.
+I love creating new gadgets that combine physics, programming, and engineering in my free time.
 
-![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=31643&api_domain=hackatime.hackclub.com&theme=darkt&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=8)
+I'm currently working on a miniature robotics platform and a custom smartwatch.
+
+Contact me: skgandre@outlook.com or satej@statixlabs.org
